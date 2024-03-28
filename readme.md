@@ -48,6 +48,17 @@
 
 - Funções e validações de texto: Implementar as funcionalidades de criptografia, descriptografia e validações de texto exigiu um entendimento sólido de algoritmos de criptografia e manipulação de strings. Foi necessário desenvolver funções adequadas para realizar as operações desejadas, além de considerar casos especiais e realizar validações para garantir a correta manipulação dos textos.
 
-# ChallengeONE
+<h3 align="left">VERSÃO WEB</h3>
+<p align="left">
+  <img height="350px" src="./assets/img/web.png" />
+</p>
 
-# desafio-one
+---
+
+<h3>VERSÃO MOBILE</h3>
+
+<p align="center">
+  <img height="600px" src="./assets/img/mobile.png" />
+</p>
+
+# ChallengeONE # desafio-one
