@@ -1,6 +1,7 @@
 <h1>
 
-  <br>💥 | 1º CHALLENGE ONE ORACLE - Turma 6 💥 
+<br>💥 | 1º CHALLENGE ONE ORACLE - Turma 6 💥
+
 </h1>
   <h3> O Desafio </h3> 
   
@@ -53,12 +54,11 @@
   <img height="350px" src="./assets/img/web.png" />
 </p>
 
----
-
 <h3>VERSÃO MOBILE</h3>
 
 <p align="center">
   <img height="600px" src="./assets/img/mobile.png" />
 </p>
+---
 
 # ChallengeONE # desafio-one
