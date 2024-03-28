@@ -47,4 +47,7 @@
 - Alinhar elementos com flexbox: O alinhamento e posicionamento dos elementos na página utilizando flexbox pode ser complexo. Foi necessário compreender e aplicar corretamente as propriedades do flexbox para alcançar o layout desejado, garantindo que os elementos se ajustassem corretamente em diferentes resoluções de tela.
 
 - Funções e validações de texto: Implementar as funcionalidades de criptografia, descriptografia e validações de texto exigiu um entendimento sólido de algoritmos de criptografia e manipulação de strings. Foi necessário desenvolver funções adequadas para realizar as operações desejadas, além de considerar casos especiais e realizar validações para garantir a correta manipulação dos textos.
+
 # ChallengeONE
+
+# desafio-one
